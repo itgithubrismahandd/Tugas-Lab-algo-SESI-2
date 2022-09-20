@@ -1,0 +1,19 @@
+TUGAS LAB ALGORITMA PEMROGRAMAN DAN STRUKTUR DATA 
+SESI 2
+Nama : Risma Handayani
+Kelas : TI-22-PB
+2.5 Tugas dan Latihan
+1. Sebutkan dan jelaskan 5 syntax error pada saat me running program!
+Jawaban:
+Syntax error yang terjadi dalam pemrograman:
+1.	Menuliskan perintah yang sebenarnya tidak ada, saat menuliskan perintah yang sebenarnya tidak ada perintah tsb menjadi tidak valid dan tidak dikenali oleh Bahasa pemrograman. 
+
+2.	Tidak/lupa menuliskan tanda kurung kurawal, tanda kurung kurawal merupakan Tanda kurung kurawal terbuka ( { ) menunjukkan awal definisi fungsi main dan tanda kurung kurawal tertutup ( } ) menunjukkan akhir. Kode-kode yang berada diantara tanda kurung kurawal ini adalah tubuh fungsi yang mendefinisikan apa yang akan terjadi ketika main dieksekusi. Sehingga saat kode ini tertinggal system computer tidak dapat mengenali tubuh atau kode yang akan dieksekusi
+
+
+3.	Tidak/lupa menuliskan tanda kurung bulat, tanda kurung bulat merupakan salah satu kode yang tidak bisa ditinggalkan Baris ini memulai deklarasi fungsi main. Fungsi main merupakan titik awal dimana seluruh program C++ akan mulai dieksekusi. Diletakkan diawal, ditengah, atau diakhir program, isi dari fungsi main akan selalu dieksekusi pertama kali. Pada dasarnya, seluruh program C++ memiliki fungsi main.
+
+4.	Meninggalkan atau salah menuliskan tanda titik koma, kesalahan tipe ini sering terjadi akibat kurang telitinya seorang programmer saat mengakhiri kode seringkali menuliskan titik dua yang seharusnya titik koma untuk system computer dapat membaca.
+
+
+5.	Serta salah mengeja variable, Selain itu, syntax error juga dapat terjadi jika nama variabel dan fungsi yang digunakan tidak valid. Misal, bahasa PHP tidak mengizinkan penggunaan nama variabel dimulai dengan angka. Jika Anda melakukan hal tersebut, tentu akan muncul syntax error.
